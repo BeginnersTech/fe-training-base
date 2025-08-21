@@ -69,7 +69,7 @@ Create the following UI components under `src/components`:
 - `Button.tsx`: A clickable button. Used for registering, editing, deleting tasks, and navigating between screens.
 - `List.tsx`: A container for displaying multiple items. Used for the ToDo list.
   - `ListItem.tsx`: A component representing an individual list item used within `List`. Displays each ToDo task.
-- `Header.tsx`: The header component of the application. Only the application logo is placed here.
+- `Header.tsx`: The header component of the application. Only the application logo is placed here. Please use the `logo.svg` file located in the `public` folder for the logo.
 
 These components will be combined in later steps to build the screens. It is important that each component can be flexibly configured via props.
 
