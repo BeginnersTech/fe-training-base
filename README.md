@@ -17,7 +17,7 @@ This training progresses through the major steps below. Each step includes detai
 
 ## Design Resources
 
-We provide the design for this training in Figma. Refer to Figma while completing each step.
+We provide the design for this training in Figma. Please create the deliverables for each step according to the Figma design.
 
 - [Figma](https://www.figma.com/design/gGF072fcZ2pqvwWkeHK0uU/%E7%A0%94%E4%BF%AE%E7%94%A8PJ?node-id=0-1&t=ybqJnqP8ml7bJPNv-1)
 

@@ -17,7 +17,7 @@
 
 ## 研修資料
 
-Figma に本研修で使用するデザインを作成しております。Figma を参考に各ステップを進めてください。
+Figma に本研修で使用するデザインを作成しております。Figma の通りに各ステップの成果物を作成してください。
 
 - [Figma](https://www.figma.com/design/gGF072fcZ2pqvwWkeHK0uU/%E7%A0%94%E4%BF%AE%E7%94%A8PJ?node-id=0-1&t=ybqJnqP8ml7bJPNv-1)
 
